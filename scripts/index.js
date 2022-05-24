@@ -1,6 +1,6 @@
 let popup = document.querySelector('.popup');
 let popupNameInpt = document.querySelector('.popup__input');
-let popupProfInpt = document.querySelector('.popup__input_mod');
+let popupProfInpt = document.querySelector('.popup__input_mod_value');
 let popupEditBtn = document.querySelector('.profile__edit');
 let popupSaveBtn = document.querySelector('.popup__save');
 let popupExitBtn = document.querySelector('.popup__exit');
